@@ -1,0 +1,106 @@
+header{
+    background-color:#FFBFBF;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 30px;
+}
+header a{
+    text-decoration: none;
+    color: #d96363;
+}
+body{
+    margin: 0;
+    background-image: url(Rectangle\ 9.png);
+}
+.apps{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+.apps1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+.apps2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+.app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 400px;
+}
+.app p{
+   text-align: center; 
+}
+.duolingo p{
+    color: rgb(90, 161, 18);
+}
+.drops p{
+    color: darkmagenta;
+}
+.snania p{
+    color: cornflowerblue;
+}
+.stepik p{
+    color: black;
+}
+.chatgpt p{
+    color: cadetblue;
+}
+.castlequais p{
+    color: lightseagreen;
+}
+footer{
+    background-color: #FFBFBF;
+    padding: 10px;
+}
+.ctolb{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+.ctolb1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+.ctolb2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+.ctolb3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+.ct{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 700px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.ctolb p{
+    color: #FFBFBF;
+}
+.nichego a{
+    color: #FFBFBF;
+}
